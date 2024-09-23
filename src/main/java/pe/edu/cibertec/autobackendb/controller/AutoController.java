@@ -31,7 +31,7 @@ public class AutoController {
                         "");
             }
             return new AutoResponse(
-                    "01",
+                    "00",
                     "",
                     datosAutos[0],
                     datosAutos[1],
@@ -48,7 +48,6 @@ public class AutoController {
                     "",
                     "",
                     "");
-
         }
     }
 }
