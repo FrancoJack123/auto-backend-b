@@ -1,0 +1,20 @@
+1;ASR-121;KIA;Sportage;5;26000;Negro
+2;BCD-482;Toyota;Corolla;5;23000;Blanco
+3;JKT-593;Honda;Civic;5;27000;Rojo
+4;LKM-720;Ford;Focus;5;25000;Azul
+5;QRW-185;Hyundai;Tucson;5;28000;Gris
+6;PNM-366;Chevrolet;Malibu;5;24000;Plata
+7;ZXC-492;Volkswagen;Golf;5;26500;Verde
+8;MNB-743;Mazda;CX-5;5;29000;Negro
+9;TRE-158;Nissan;X-Trail;5;27500;Rojo
+10;VBN-520;Subaru;Outback;5;30000;Blanco
+11;XSA-634;BMW;X5;5;45000;Azul
+12;RTE-255;Audi;Q5;5;48000;Negro
+13;UVW-998;Mercedes-Benz;GLC;5;50000;Gris
+14;IJK-377;Lexus;NX;5;47000;Blanco
+15;CDE-440;Volvo;XC60;5;49000;Rojo
+16;YUI-611;Jeep;Cherokee;5;32000;Plata
+17;ASF-829;Tesla;Model X;7;85000;Negro
+18;LPO-993;Land Rover;Discovery;7;90000;Azul
+19;DFG-225;Porsche;Macan;5;75000;Gris
+20;GHJ-350;Jaguar;F-Pace;5;70000;Verde
